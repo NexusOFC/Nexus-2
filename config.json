@@ -1,0 +1,35 @@
+{
+  "ownerNumber": [
+    "62843xxxx",
+    "62pppp",
+    "67pppp",
+    "63pppp"
+  ],
+  "readme": "isi nomornya ownerNumber sesuai ada berapa no kalian mau banyak nomor juga bisa, jangan lupa tanda koma nya harus pas biar ga eror , install modul pake npm i atau yarn",
+  "contact": "6285702234012",
+  "botName": "Maleficent Bot - MD",
+  "ownerName": "Ruly Henderson",
+  "footer": "© Ruhend",
+  "sosmed": "https://www.instagram.com/ru_hend_",
+  "thumbnail": "https://telegra.ph/file/0aa662111090f4a70c8f4.jpg",
+  "music": "https://qu.ax/fRjY.opus",
+  "ram": 800,
+  "auto_dl": false,
+  "typing": false,
+  "recording": true,
+  "read": true,
+  "self": false,
+  "readme2": "botNumber adalah nomor yang mau di jadikan bot",
+  "botNumber": 6285702234012,
+  "group": {
+    "only": false,
+    "only_message": false,
+    "readme3": "only_message is response message groupOnly when group mode is active in private chat. true if wanna respond with groupOnly message, false if don't wanna respond message groupOnly in private chat ketik .set ada penjelasan nya atau lihat plugins/owner/owner-set.js",
+    "adReply": true,
+    "limit_adReply": false,
+    "limit_message": true,
+    "link": "https://chat.whatsapp.com/BpeY9rgaEIk4oyoQzuBVK1",
+    "bye": "Bye \n%user \nHas Left From %subject Group",
+    "welcome": "*Selamat Datang Babi imut *\n*%user* \n*Di %subject*\n*Kenalan dulu yuk*\n*Nama:*\n*Umur:*\n*Asal Kota:*\n*Hoby:*\n*Merek HP:*\n"
+  }
+}
